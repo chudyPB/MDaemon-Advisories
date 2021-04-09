@@ -6,6 +6,7 @@ Those vulnerabilities were already patched on January 2021 and are published for
 Timeline:
 
 15-Dec-2020: Vulnerabilities reports sent to the vendor
+
 12-Jan-2021: Patch published
 
 Patch notes:
