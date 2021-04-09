@@ -1,0 +1,2 @@
+# MDaemon-Advisories
+MDaemon Advisories - CVE-2021-27180, CVE-2021-27181, CVE-2021-27182, CVE-2021-27183
