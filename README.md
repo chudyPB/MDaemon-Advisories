@@ -1,7 +1,15 @@
 # MDaemon-Advisories
-MDaemon Advisories - CVE-2021-27180, CVE-2021-27181, CVE-2021-27182, CVE-2021-27183
+MDaemon Advisories:
 
-Those vulnerabilities were already patched on January 2021 and are published for CVE purposes.
+- CVE-2021-27180 (Reflected XSS)
+
+- CVE-2021-27181 (CSRF Token Fixation)
+
+- CVE-2021-27182 (Iframe injection)
+
+- CVE-2021-27183 (Remote Code Execution)
+
+Those vulnerabilities were already patched on January 2021 and are published for CVE purposes. They can be chained to achieve RCE/Account Takeover over email message (user interaction required).
 
 Timeline:
 
